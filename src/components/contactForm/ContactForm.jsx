@@ -55,7 +55,9 @@ class ContactForm extends Component {
           />
         </div>
 
-        <button type="submit">Submit</button>
+        <button type="submit" className={styles.btn}>
+          Submit
+        </button>
       </form>
     );
   }

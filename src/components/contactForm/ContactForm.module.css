@@ -4,5 +4,9 @@
 }
 
 .btn {
-  background-color: aqua;
+  background-color: rgb(20, 183, 20);
+  margin: 0 auto;
+  width: 300px;
+  margin-top: 15px;
+  border: 0 solid rgb(20, 183, 20);
 }
